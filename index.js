@@ -1,3 +1,4 @@
+$(document).ready(function() {
 var firebaseConfig = {
     apiKey: "AIzaSyAPBsb0OAMyOLWp7uGLl0V7qb6nXGEbtvY",
     authDomain: "test-30292.firebaseapp.com",
@@ -85,3 +86,4 @@ $("#login").click(()=>{
 //   var credential = error.credential;
 //   // ...
 // });
+});
